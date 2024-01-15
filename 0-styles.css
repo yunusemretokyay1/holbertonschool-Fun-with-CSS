@@ -15,6 +15,12 @@ ul li {
     margin: 16px;
     padding-top: 10px ;
 }
+.icon {
+	background: url("images/0-sprite.png");
+	width: 250px;
+    height: 350px;
+    display: inline-block;
+}
 .icon.i-html  {
 	display: inline-block;
     background-image: url("./images/sprite.png");
